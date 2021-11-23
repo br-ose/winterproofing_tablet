@@ -1,2 +1,1 @@
-# winterproofing_tablet
-winterproofing for the tablets
+# debs-winterproofing
