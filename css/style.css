@@ -108,7 +108,7 @@ footer
 }
 main h1:first-child
 {
-    font-size:16px;
+    font-size:32px;
 }
 ol
 {
@@ -253,5 +253,8 @@ a.skip-main:focus, a.skip-main:active
     {
         grid-row-start:1;
     }
-
+    h1
+    {
+        font-size:2em;
+    }
 }
